@@ -105,4 +105,4 @@ docker run -p 8000:8000 face_recognition_api
 This project is licensed under the MIT License.
 
 ---
-**Maintainer:** Your Name (@yourgithub)
+**Maintainer:** Md. Shahab Alam (@shahab-developer)
